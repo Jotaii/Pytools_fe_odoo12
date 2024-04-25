@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: facturacion_electronica
+Version: 0.19.3
+Summary: UNKNOWN
+Home-page: https://gitlab.com/dansanti/facturacion_electronica
+Author: Daniel Santibáñez Polanco
+Author-email: dansanti@gmail.com
+License: GPLV3+
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Environment :: Console
+License-File: LICENSE
+
+Módulo de Facturación Electrónica Chilena
+
